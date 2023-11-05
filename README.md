@@ -12,13 +12,7 @@
 
 - 🌱 I’m currently learning **Html, Css, Javascript, Lua, Python**
 
-- 👯 I’m looking to collaborate on [none](none)
-
-- 🤝 I’m looking for help with [none](none)
-
 - 👨‍💻 All of my projects are available at [https://ekkypersonalweb.vercel.app/](https://ekkypersonalweb.vercel.app/)
-
-- 📝 I regularly write articles on [none](none)
 
 - 💬 Want to ask me a question? **Join My Discord**
 
