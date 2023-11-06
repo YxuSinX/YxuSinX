@@ -1,6 +1,6 @@
 ![ezgif com-optimize](https://github.com/YxuSinX/YxuSinX/assets/108211463/d55f0122-65fc-47ac-b1e3-286ed5bcdee5)
 <h1 align="center">Hi 👋, I'm Ekky</h1>
-<h3 align="center">A New Beginner Web Developer</h3>
+<h3 align="center">A Beginner Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1071990101485293669/1170747209810202665/G0EguMe.png?ex=655a2a4e&is=6547b54e&hm=ccccf12240fcb810959fc2747f0f0b75d6f0076247aaf5ba11fbd24a746f590c&=&width=352&height=352">
 
 
