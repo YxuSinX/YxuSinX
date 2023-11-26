@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/yxusin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yxusin" height="30" width="40" /></a>
 <a href="https://instagram.com/ekkyzx_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ekkyzx_0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yxusin69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yxusin69" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@YxuSin69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yxusin69" height="30" width="40" /></a>
 <a href="https://discord.gg/hUQqG3hHG2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hUQqG3hHG2" height="30" width="40" /></a>
 </p>
 
