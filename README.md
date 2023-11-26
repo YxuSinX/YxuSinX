@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Html, Css, Javascript, Lua, Python**
 
-- 👨‍💻 All of my projects are available at [https://ekkypersonalweb.vercel.app/](https://ekkypersonalweb.vercel.app/)
+- 👨‍💻 My Personal Website: [https://ekkypersonalweb.vercel.app/](https://ekkypersonalweb.vercel.app/)
 
 - 💬 Want to ask me a question? **Join My Discord**
 
