@@ -36,3 +36,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yxusinx&show_icons=true&locale=en" alt="yxusinx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yxusinx&" alt="yxusinx" /></p>
+
+# Contact Me
+[![Discord Presence](https://lanyard.cnrad.dev/api/781051635928531015)](https://discord.com/users/781051635928531015)
