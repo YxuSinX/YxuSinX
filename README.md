@@ -16,7 +16,7 @@
 
 - 💬 Want to ask me a question? **Join My Discord**
 
-- 📫 How to reach me **harithrifqi6661@gmail.com**
+- 📫 How to reach me **https://dsc.gg/yxu**
 
 - ⚡ Fun fact **I am an introvert person :kekw:**
 
