@@ -39,3 +39,6 @@
 
 # Contact Me
 [![Discord Presence](https://lanyard.cnrad.dev/api/781051635928531015)](https://discord.com/users/781051635928531015)
+
+# Recently Played
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fir4ry6vwqq5wgsn2ausk4pdp4)
