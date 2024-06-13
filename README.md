@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Html, Css, Javascript, Lua, Python**
 
-- 👨‍💻 My Personal Website: [https://ekkypersonalweb.vercel.app/](https://ekkypersonalweb.vercel.app/)
+- 👨‍💻 My Personal Website: [https://yxusinbot.com](https://yxusinbot.com)
 
 - 💬 Want to ask me a question? **Join My Discord**
 
