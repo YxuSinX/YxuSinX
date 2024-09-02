@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/yxusin" target="blank"><img src="https://img.shields.io/twitter/follow/yxusin?logo=twitter&style=for-the-badge" alt="yxusin" /></a> </p>
 
-- 🔭 I’m currently working on [YxuSinBot](https://github.com/YxuSinX/BotWebsite)
+- 🔭 I’m currently working on [YxuSinBot](https://github.com/icmedev/YxuSinBot)
 
 - 🌱 I’m currently learning **Html, Css, Javascript, Lua, Python**
 
-- 👨‍💻 My Personal Website: [https://yxusinbot.com](https://yxusinbot.com)
+- 👨‍💻 Website: [https://yxusinbot.com](https://yxusinbot.com)
 
 - 💬 Want to ask me a question? **Join My Discord**
 
