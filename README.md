@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **https://dsc.gg/yxu**
 
-- ⚡ Fun fact **I am an introvert person :kekw:**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yxusin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yxusin" height="30" width="40" /></a>
