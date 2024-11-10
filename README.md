@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yxusin" target="blank"><img src="https://img.shields.io/twitter/follow/yxusin?logo=twitter&style=for-the-badge" alt="yxusin" /></a> </p>
 
-- 🔭 I’m currently working on [YxuSinBot](https://github.com/icmedev/YxuSinBot)
+- 🔭 I’m currently working on [YxuSinBot](Https://github.com/YxuSinX/keysentry.xyz)
 
 - 🌱 I’m currently learning **React, Next.js, Svelte & Vue.js**
 
