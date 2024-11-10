@@ -1,6 +1,6 @@
 ![ezgif com-optimize](https://github.com/YxuSinX/YxuSinX/assets/108211463/d55f0122-65fc-47ac-b1e3-286ed5bcdee5)
 <h1 align="center">Hi 👋, I'm Ekky</h1>
-<h3 align="center">A Beginner Web Developer</h3>
+<h3 align="center">A Junior Web Developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxusinx&label=Profile%20views&color=0e75b6&style=flat" alt="yxusinx" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [YxuSinBot](https://github.com/icmedev/YxuSinBot)
 
-- 🌱 I’m currently learning **Html, Css, Javascript, Lua, Python**
+- 🌱 I’m currently learning **React, Next.js, Svelte & Vue.js**
 
 - 👨‍💻 Website: [https://yxusinbot.com](https://yxusinbot.com)
 
